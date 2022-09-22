@@ -26,3 +26,7 @@
 + CD for voting system
 
 + CD for online shopping'
+
++ CD for library management
+
++ CD for hospital mangement
