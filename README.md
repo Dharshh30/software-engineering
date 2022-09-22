@@ -30,3 +30,14 @@
 + CD for library management
 
 + CD for hospital mangement
+
++ raptor for fibonacci
+
++ raptor for prime or not
+
++ raptor for largest among 3
+
++ raptor for length of string
+
++ raptor for palindrome
+
